@@ -1,28 +1,27 @@
-# MCP Repository
+# MCP Project
 
-This repository contains the codebase for the MCP project. It is designed to facilitate [brief description of purpose].
+This repository contains the core codebase for the MCP project, aimed at [brief description of purpose].
 
-## Features
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-
-## Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/suparnadmukherjee/mcp.git
-```
-2. Install dependencies:
-[Instructions]
+## File Overview
+- `app.py`: Main application script for sentiment analysis using TextBlob and Gradio.
+- `main.py`: Entry point for the project, orchestrating various modules.
+- `codesamples_4review.py`: Sample code snippets for review and testing.
+- `pyproject.toml`: Configuration for Python project dependencies and build system.
+- `requirements.txt`: List of dependencies required to run the project.
+- `.gitignore`: Specifies files and directories to be ignored by Git.
+- `.python-version`: Specifies the Python version used.
+- `README.md`: This documentation file.
 
 ## Usage
-[Usage instructions]
+- Clone the repository
+- Install dependencies from `requirements.txt`
+- Run `app.py` to start the sentiment analysis app
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
+## Contribution
+Contributions are welcome. Please fork the repository and submit pull requests.
 
 ## License
-[License information]
+Specify license details here.
 
 ## Contact
-[Contact details]
+Provide contact information or links for support.
